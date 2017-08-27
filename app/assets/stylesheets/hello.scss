@@ -1,4 +1,38 @@
+// @font-face {
+//  font-family: 'Playfair Display', serif;
+//  src: local('Playfair Display', serif;)
+//  url('https://fonts.googleapis.com/css?family=Playfair+Display');
+// }
 
-h1 {
-background-color: red;
+body{
+ background-image: url("http://www.earth-association.org/wp-content/uploads/2015/03/earth-space2.jpg");
+ background-size: contain;
+ background-repeat: no-repeat;
+ // width: 100%;
+ height: 120vh;
+ // margin-right: -10%;
+}
+.Transparency_I_Am {
+ width: 30%;
+ padding: 35px;
+ background: rgb(199,219,25); /* for IE */
+ background: rgba(199,219,25,0.25);
+}
+p, h1{
+ width: 100%;
+ color: white;
+ font-size: 1.5em;
+}
+h4, h2{
+ color: white;
+ // width: 40%;
+}
+.Hire {
+padding-left: 50%;
+}
+.Transparency_Hire {
+ width: 45%;
+ padding: 35px;
+ background: rgb(199,219,25); /* for IE */
+ background: rgba(199,219,25,0.25);
 }
